@@ -1,0 +1,19 @@
+html {
+  box-sizing: border-box; }
+
+*, ::before, ::after {
+  box-sizing: inherit; }
+
+html, body, h1, h2, h3, h4, h5, ul, li, p {
+  margin: 0;
+  padding: 0; }
+
+ul {
+  list-style-type: none; }
+
+body {
+  font-family: 'Poppins', serif;
+  text-rendering: optimizeLegibility; }
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Lora', sans-serif; }
